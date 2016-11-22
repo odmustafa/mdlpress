@@ -1,0 +1,20 @@
+{
+  "name": "mdlpress",
+  "description": "MDL WP Theme",
+  "main": "",
+  "authors": [
+    "Omar Mustafa"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "material-design-lite": "^1.2.1"
+  }
+}
